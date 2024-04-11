@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Car Rental App<br>👯 I’m looking to gain more experience with Tech<br>🌱 I’m currently learning Angular<br>💬 Ask me about anything<br>⚡ I love trying new foods!
+🔭 I’m currently working on a E-Commerce store<br>👯 I’m looking to gain more experience with Tech<br>🌱 I’m currently learning Angular<br>💬 Ask me about anything<br>⚡ I love trying new foods!
 
 
 ## 🌐 Socials:
